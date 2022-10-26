@@ -1,3 +1,4 @@
+# This test.md file should ignore by git 
 test.md
 # .gitignore
 node_modules/
